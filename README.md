@@ -1,7 +1,8 @@
 # Crowdfunding-NGO-Management-Using-Blockchain
 Crowdfunding NGO Management Using Blockchain Code, Document And Video Tutorial
 
-![image](https://github.com/user-attachments/assets/53ad0f69-c845-49b1-b334-2eff7872e0b1)
+![ngo](https://github.com/user-attachments/assets/6ea3d32c-405c-436a-a3ba-f20677d5909d)
+
 
 ## Youtube link: https://youtu.be/8Dyk7rMD7n4?si=TNZsWOOTlmfyYZzV
 
